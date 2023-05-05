@@ -1,0 +1,22 @@
+{
+	"name": "cypress-playground",
+	"version": "1.0.0",
+	"description": "Automated software testing with Cypress",
+	"main": "index.js",
+	"scripts": {
+		"cy:run": "cypress run",
+		"start": "lite-server"
+	},
+	"keywords": [
+		"Cypress",
+		"Testing",
+		"Automation"
+	],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"cypress": "^12.7.0",
+		"lite-server": "^2.6.1",
+		"prettier": "2.8.4"
+	}
+}
