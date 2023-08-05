@@ -19,7 +19,7 @@ describe('Example test suite to demonstrate how Cypress works', () => {
 		})
 	})
 
-	it('Locators using with Cypress', () => {
+	it.skip('Locators using with Cypress', () => {
 		// we use jQuery engine selectors in Cypress, skipped
 
 		// by tag name
